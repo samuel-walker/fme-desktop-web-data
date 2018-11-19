@@ -3,8 +3,9 @@
 <head>
   <title>Tweet Streaming</title>
 
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="index.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://platform.twitter.com/widgets.js"></script>
   <meta name="twitter:widgets:theme" content="light">
@@ -31,10 +32,6 @@
     }(document, "script", "twitter-wjs"));
   </script>
 
-  <style>
-    #map{ height: 100% }
-  </style>
-
 </head>
 <body>
 
@@ -58,16 +55,26 @@
   	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
+  //
+  var customOptions =
+    {
+    'className' : 'blink'
+    }
+
   // Load GeoJSON from an external file
-  $.getJSON("tweets.geojson",function(data){
+  $.getJSON("tweets.json",function(data){
     L.geoJson(data,{
+      // Create points from the GeoJSON features
       pointToLayer: function(feature,latlng){
+        // Place a marker at each point
         var marker = L.marker(latlng);
+        // Bind a popup to each marker to display:
         marker.bindPopup(
-          // feature.properties.text + '<br/>' +
-          // feature.properties._tweet_username + '<br/>' +
-          // feature.properties._tweet_created_at
-          feature.properties.html
+          // The embed HTML block
+          feature.properties.html,
+          // Custom options for the popup, in this case a CSS class
+          // which adds a fade in to the popup
+          customOptions
           );
         return marker;
       }

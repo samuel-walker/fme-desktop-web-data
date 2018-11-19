@@ -4,6 +4,12 @@
 
 1. FME Server involved at all? An extra step of installation etc. If we set up VMs it's no big deal though. Perhaps an optional step at the end to automate it? I think it probably shouldn't be involved at all. Maybe a quick bonus section for scheduling?
 
+## Reminders
+
+- Mention https://hashtagify.me
+- Explain API quirks
+-
+
 ## Learning Objectives
 
 ## Formats

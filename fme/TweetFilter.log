@@ -1,0 +1,161 @@
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|FME 2019.0.0.0 Beta (20181018 - Build 19135 - WIN64)
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME 2019.0\'
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|Permanent License.
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|Machine host name is: BLASTER
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|START - ProcessID: 19628, peak process memory usage: 30888 kB, current process memory usage: 30888 kB
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME 2019.0\fme.exe' `C:/Users/swalker/Documents/GitHub/Web Data Module/fme-desktop-web-data/fme\wb-xlate-154265232330_19884' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{3f8adedf-65bc-4be3-b15f-2491c4e27216}'
+2018-11-19 10:32:04|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\swalker\AppData\Roaming\Safe Software\FME\'
+2018-11-19 10:32:04|   0.1|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME 2019.0\datasources;C:\Users\swalker\Documents\FME\Formats
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME 2019.0\transformers;C:\Users\swalker\Documents\FME\Transformers;C:\Users\swalker\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\swalker\Documents\FME\CoordinateSystems
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\swalker\Documents\FME\CoordinateSystemExceptions
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\swalker\Documents\FME\CoordinateSystemGridOverrides
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\swalker\Documents\FME\CsmapTransformationExceptions
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\swalker\Documents\FME\TransformerCategories
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\swalker\Documents\GitHub\Web Data Module\fme-desktop-web-data\fme'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\swalker\AppData\Local\Temp', set from environment variable `TEMP'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME 2019.0\'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\swalker\Documents\GitHub\Web Data Module\fme-desktop-web-data\fme/'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'TweetFilter.fmw'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2019.0.0.0'
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|System Status: 655.82 GB of disk space available in the FME temporary folder (C:\Users\swalker\AppData\Local\Temp)
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 17134)
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Platform: WIN64
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Locale: en_US
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Process limit is 31.76 GB of physical memory
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.27 GB of virtual memory
+2018-11-19 10:32:04|   0.1|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.46 GB of virtual memory
+2018-11-19 10:32:04|   0.2|  0.0|INFORM|Creating writer for format: 
+2018-11-19 10:32:04|   0.2|  0.0|INFORM|Creating reader for format: 
+2018-11-19 10:32:04|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2018-11-19 10:32:04|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_1
+2018-11-19 10:32:04|   0.2|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2018-11-19 10:32:04|   0.3|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Loaded module 'CSV2' from file 'C:\Program Files\FME 2019.0\plugins/CSV2.dll'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20180604)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20180604)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20180604)
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|CSV reader: Opening dataset 'C:\Users\swalker\Documents\GitHub\Web Data Module\fme-desktop-web-data\www\tweets.csv'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2018-11-19 10:32:04|   0.3|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '1000'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'windows-1252'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'No'
+2018-11-19 10:32:04|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.1|INFORM|CSV reader: Opening dataset 'C:\Users\swalker\Documents\GitHub\Web Data Module\fme-desktop-web-data\www\tweets.csv'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '1000'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'windows-1252'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'No'
+2018-11-19 10:32:05|   0.4|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME 2019.0\plugins/LogCount_func.dll'
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Loaded module 'InspectorFactory' from file 'C:\Program Files\FME 2019.0\plugins/InspectorFactory.dll'
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME 2019.0\plugins/PythonFactory.dll'
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME 2019.0\fmepython36\python36.dll' with PYTHONHOME `C:\Program Files\FME 2019.0\fmepython36'
+2018-11-19 10:32:05|   0.5|  0.0|INFORM|Python version 3.6 loaded successfully
+2018-11-19 10:32:05|   0.6|  0.1|INFORM|Loaded module 'VertexCreatorFactory' from file 'C:\Program Files\FME 2019.0\plugins/VertexCreatorFactory.dll'
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|Loaded module 'JSONQueryFactory' from file 'C:\Program Files\FME 2019.0\plugins/JSONQueryFactory.dll'
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME API version of module 'JSONQueryFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME 2019.0\plugins/HTTPFactory.dll'
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.6|  0.0|INFORM|FME API version of module 'JSONQueryFactory' matches current internal version (3.8 20180604)
+2018-11-19 10:32:05|   0.7|  0.1|WARN  |CSV reader: Detected excess data and/or delimiters in addition to the defined schema in line 2 with value '1064587007425421313,@haileeyfallon HAIL,20181119183136,"{""created_at"":""Mon Nov 19 18:31:36 +0000 2018"",""id"":1064587007425421313,""id_str"":""1064587007425421313"",""text"":""@haileeyfallon HAIL"",""display_text_range"":[15,19],""source"":""\u003ca href=\""http:\/\/twitter.com\/download\/iphone\"" rel=\""nofollow\""\u003eTwitter for iPhone\u003c\/a\u003e"",""truncated"":false,""in_reply_to_status_id"":1064569755460349952,""in_reply_to_status_id_str"":""1064569755460349952"",""in_reply_to_user_id"":421600432,""in_reply_to_user_id_str"":""421600432"",""in_reply_to_screen_name"":""haileeyfallon"",""user"":{""id"":1257740318,""id_str"":""1257740318"",""name"":""betsy \u25e1\u0308"",""screen_name"":""bet_c_"",""location"":""Boca Raton, FL"",""url"":null,""description"":""the man on top of the mountain didnt fall there \/\/ FAU '20 \/\/ i love ducks"",""translator_type"":""none"",""protected"":false,""verified"":false,""followers_count"":914,""friends_count"":406,""listed_count"":4,""favourites_count"":30135,""statuses_count"":21722,""created_at"":""Sun Mar 10 19:05:39 +0000 2013"",""utc_offset"":null,""time_zone"":null,""geo_enabled"":true,""lang"":""en"",""contributors_enabled"":false,""is_translator"":false,""profile_background_color"":""1A1B1F"",""profile_background_image_url"":""http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif"",""profile_background_image_url_https"":""https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif"",""profile_background_tile"":false,""profile_link_color"":""2FC2EF"",""profile_sidebar_border_color"":""181A1E"",""profile_sidebar_fill_color"":""252429"",""profile_text_color"":""666666"",""profile_use_background_image"":true,""profile_image_url"":""http:\/\/pbs.twimg.com\/profile_images\/1044712171337330688\/a4zrBFI7_normal.jpg"",""profile_image_url_https"":""https:\/\/pbs.twimg.com\/profile_images\/1044712171337330688\/a4zrBFI7_normal.jpg"",""profile_banner_url"":""https:\/\/pbs.twimg.com\/profile_banners\/1257740318\/1505484737"",""default_profile"":false,""default_profile_image"":false,""following"":null,""follow_request_sent"":null,""notifications"":null},""geo"":null,""coordinates"":null,""place"":{""id"":""d1cd39353c51904d"",""url"":""https:\/\/api.twitter.com\/1.1\/geo\/id\/d1cd39353c51904d.json"",""place_type"":""city"",""name"":""Boca Raton"",""full_name"":""Boca Raton, FL"",""country_code"":""US"",""country"":""United States"",""bounding_box"":{""type"":""Polygon"",""coordinates"":[[[-80.203991,26.320692],[-80.203991,26.427259],[-80.065981,26.427259],[-80.065981,26.320692]]]},""attributes"":{}},""contributors"":null,""is_quote_status"":false,""quote_count"":0,""reply_count"":0,""retweet_count"":0,""favorite_count"":0,""entities"":{""hashtags"":[],""urls"":[],""user_mentions"":[{""screen_name"":""haileeyfallon"",""name"":""Hails"",""id"":421600432,""id_str"":""421600432"",""indices"":[0,14]}],""symbols"":[]},""favorited"":false,""retweeted"":false,""filter_level"":""low"",""lang"":""en"",""timestamp_ms"":""1542652296297""}",bet_c_,,,@haileeyfallon HAIL,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,"Boca Raton, FL"' read from file 'C:\Users\swalker\Documents\GitHub\Web Data Module\fme-desktop-web-data\www\tweets.csv'.  Excess data will not be read.  This can occur if the file is not uniform in the number of fields per row or if fields have been intentionally removed from the source feature type.  In order to read the excess data, recreate the source feature type and set a larger value for the 'Maximum Rows to Scan' option to scan additional rows for fields.  If the file contains field names, ensure that the field names line represents all of the columns in data rows, or enable the 'Scan for Additional Fields' option.  This may also be caused by a misplaced field qualifier character.  In this case, ensure that field qualifiers in the row are correct, or consider changing the Field Qualifier Character value
+2018-11-19 10:32:05|   0.7|  0.0|INFORM|TestFilter_Condition_1(TestFactory): Splitting feature table
+2018-11-19 10:32:05|   0.7|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\swalker\AppData\Local\Temp\wb-inspectors-MBMRUW\inspector.ffs'
+2018-11-19 10:32:05|   0.8|  0.1|INFORM|MULTI_READER(MULTI_READER): Done reading 1307 features from 1 readers
+2018-11-19 10:32:05|   0.8|  0.0|INFORM|Emptying factory pipeline
+2018-11-19 10:32:05|   0.8|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 1307 input feature(s), wrote 1307 output feature(s): 1307 matched merge filters, 1307 were routed to output, 0 could not be routed.
+2018-11-19 10:32:05|   0.8|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |CSV (CSV2_1) Splitter(TeeFactory): Cloned 1307 input feature(s) into 1307 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |CSV_CSV2_1 Feature Counter -1 31(TeeFactory): Cloned 1307 input feature(s) into 1307 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter(TeeFactory): Cloned 1307 input feature(s) into 1307 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_Condition_1(TestFactory): Tested 1307 input feature(s) -- 0 feature(s) passed and 1307 feature(s) failed
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_Condition_2(TestFactory): Tested 1307 input feature(s) -- 0 feature(s) passed and 1307 feature(s) failed
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_No<space>geometry(TeeFactory): Cloned 1307 input feature(s) into 1307 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_Coordinates Feature Counter -1 41(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_Geocoded Feature Counter -1 45(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |TestFilter_No<space>geometry Feature Counter -1 50(TeeFactory): Cloned 1307 input feature(s) into 1307 output feature(s)
+2018-11-19 10:32:05|   0.8|  0.0|STATS |Geocoder_CATCHER(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.4|STATS |Geocoder_ROUTER(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Geocoder_OUTPUT Feature Counter -1 44(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Geocoder_<REJECTED> Feature Counter -1 2147680302(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VertexCreator_2_OUTPUT Feature Counter -1 48(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VertexCreator_2_<REJECTED> Feature Counter -1 2147680298(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VertexCreator_OUTPUT Feature Counter -1 27(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VertexCreator_<REJECTED> Feature Counter -1 2147680281(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Reprojector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Reprojector_REPROJECTED Feature Counter -1 34(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |JSONFlattener_OUTPUT Feature Counter -1 36(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |JSONFlattener_<REJECTED> Feature Counter -1 2147680288(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 37(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |HTTPCaller_Output Feature Counter -1 38(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |HTTPCaller_<REJECTED> Feature Counter -1 2147680285(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Stored 1307 feature(s) to FME feature store file `C:\Users\swalker\AppData\Local\Temp\wb-inspectors-MBMRUW\inspector.ffs'
+2018-11-19 10:32:05|   1.2|  0.0|INFORM|Saving spatial index into file 'C:\Users\swalker\AppData\Local\Temp\wb-inspectors-MBMRUW\inspector.fsi'
+2018-11-19 10:32:05|   1.2|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\swalker\AppData\Local\Temp\wb-inspectors-MBMRUW\inspector.fsi'
+2018-11-19 10:32:05|   1.2|  0.0|STATS |JSONExtractor_EVALUATED Feature Counter -1 16(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |JSONExtractor_<REJECTED> Feature Counter -1 2147680291(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VisualizerProcessor(CreationFactory): Created 1 features
+2018-11-19 10:32:05|   1.2|  0.0|STATS |VisualizerCleaner(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|STATS |                            Features Read Summary
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|STATS |CSV                                                                       1307
+2018-11-19 10:32:05|   1.2|  0.0|STATS |==============================================================================
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Total Features Read                                                       1307
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|STATS |                           Features Written Summary
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|STATS |==============================================================================
+2018-11-19 10:32:05|   1.2|  0.0|STATS |Total Features Written                                                       0
+2018-11-19 10:32:05|   1.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2018-11-19 10:32:05|   1.2|  0.0|INFORM|Translation was SUCCESSFUL with 1 warning(s) (0 feature(s) output)
+2018-11-19 10:32:05|   1.2|  0.0|INFORM|FME Session Duration: 1.2 seconds. (CPU: 0.8s user, 0.4s system)
+2018-11-19 10:32:05|   1.2|  0.0|INFORM|END - ProcessID: 19628, peak process memory usage: 79680 kB, current process memory usage: 72512 kB
