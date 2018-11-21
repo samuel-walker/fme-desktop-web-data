@@ -1,5 +1,11 @@
 # Using Web Data with FME Desktop
 
+## In progress
+
+### 11/19
+
+Getting close. Can stream and continually fill CSV and then run GeoJSON workspace to update. However, not sure how to automate that. Ideally a DB that only keeps a certain # of tweets, or at least only a certain # in the GeoJSON. Problem with runner workspace is that the JSON never saves. As soon as the workspace starts again, it locks it I guess?
+
 ## Questions
 
 1. FME Server involved at all? An extra step of installation etc. If we set up VMs it's no big deal though. Perhaps an optional step at the end to automate it? I think it probably shouldn't be involved at all. Maybe a quick bonus section for scheduling?
